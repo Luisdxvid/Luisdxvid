@@ -1,17 +1,17 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"width="200"/>
-  <h1 align="center">👋 Hi, I'm Luisdxvid</h1>
+  <h1 align="center">👋 Hi, I'm Luis</h1>
 </div>
 
 ### 👨🏻‍💻 About Me: 
 
-- 💻 I'm Computer Engineer, passionate with web developing
+- 💻 Computer Engineer, passionate with web developing
   
 - 💬 Ask me about **PHP, JavaScript, SQL**
 
 - 📫 How to reach me luisrodriguezortigoza@gmail.com, javryhf@hotmail.es, Discord: luisdxvid
 
-- 🌱 I’m currently learning **Node.js and React**
+- 🌱 Currently learning **Node.js and React**
 
 ###
 
