@@ -7,11 +7,11 @@
 
 - 💻 Computer Engineer, passionate with web developing
   
-- 💬 Ask me about **PHP, JavaScript, SQL**
+- 💬 **PHP, JavaScript, SQL. Vue.JS**
 
 - 📫 How to reach me luisrodriguezortigoza@gmail.com, javryhf@hotmail.es, Discord: luisdxvid
 
-- 🌱 Currently learning **Node.js and React**
+- 🌱 Always learning **new tools**
 
 ###
 
