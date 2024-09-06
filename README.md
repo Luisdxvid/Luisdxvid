@@ -9,7 +9,7 @@
   
 - 💬 **PHP, JavaScript, SQL. Vue.JS**
 
-- 📫 How to reach me luisrodriguezortigoza@gmail.com, javryhf@hotmail.es, Discord: luisdxvid
+- 📫 How to reach me luisrodriguezortigoza@gmail.com, Discord: luisdxvid
 
 - 🌱 Always learning **new tools**
 
