@@ -7,7 +7,7 @@
 
 - 💻 Computer Engineer, passionate with web developing
   
-- 💬 **PHP, JavaScript, SQL. Vue.JS**
+- 💬 **PHP, JavaScript, SQL. Vue.JS, TypeScript, Go**
 
 - 📫 How to reach me luisrodriguezortigoza@gmail.com, Discord: luisdxvid
 
