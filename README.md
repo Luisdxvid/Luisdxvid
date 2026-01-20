@@ -39,17 +39,12 @@
       height="40"
     />
     <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"
-      width="40"
-      height="40"
-    />
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
-      width="40"
-      height="40"
-    />
-    <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"
+      width="40"
+      height="40"
+    />
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg"
       width="40"
       height="40"
     />
@@ -59,17 +54,12 @@
       height="40"
     />
     <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
-      width="40"
-      height="40"
-    />
-    <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"
       width="40"
       height="40"
     />
     <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
       width="40"
       height="40"
     />
@@ -79,12 +69,22 @@
       height="40"
     />
     <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
       width="40"
       height="40"
     />
     <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
+      width="40"
+      height="40"
+    />
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+      width="40"
+      height="40"
+    />
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"
       width="40"
       height="40"
     />    
