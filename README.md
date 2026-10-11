@@ -59,19 +59,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=luisdxvid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisdxvid&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luisdxvid&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
----
-
 <div align="center">
   <i>“First, solve the problem. Then, write the code.”</i>
 </div>
