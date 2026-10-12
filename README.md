@@ -7,8 +7,8 @@
     <a href="mailto:luisrodriguezortigoza@gmail.com">
       <img src="https://img.shields.io/badge/Email-luisrodriguezortigoza@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
-    <a href="https://discord.com/users/luisdxvid">
-      <img src="https://img.shields.io/badge/Discord-luisdxvid-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+    <a href="https://discord.com/users/imrsid_">
+      <img src="https://img.shields.io/badge/Discord-imrsid_-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
     </a>
     <img src="https://komarev.com/ghpvc/?username=luisdxvid&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
   </p>
